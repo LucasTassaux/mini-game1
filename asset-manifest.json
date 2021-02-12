@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mini-game1/static/css/main.437c7b36.chunk.css",
+    "main.js": "/mini-game1/static/js/main.11eeac9f.chunk.js",
+    "main.js.map": "/mini-game1/static/js/main.11eeac9f.chunk.js.map",
+    "runtime-main.js": "/mini-game1/static/js/runtime-main.281aa1bf.js",
+    "runtime-main.js.map": "/mini-game1/static/js/runtime-main.281aa1bf.js.map",
+    "static/js/2.b1f34059.chunk.js": "/mini-game1/static/js/2.b1f34059.chunk.js",
+    "static/js/2.b1f34059.chunk.js.map": "/mini-game1/static/js/2.b1f34059.chunk.js.map",
+    "index.html": "/mini-game1/index.html",
+    "static/css/main.437c7b36.chunk.css.map": "/mini-game1/static/css/main.437c7b36.chunk.css.map",
+    "static/js/2.b1f34059.chunk.js.LICENSE.txt": "/mini-game1/static/js/2.b1f34059.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mini-game1/static/media/sky3.ac48ec0f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.281aa1bf.js",
+    "static/js/2.b1f34059.chunk.js",
+    "static/css/main.437c7b36.chunk.css",
+    "static/js/main.11eeac9f.chunk.js"
+  ]
+}
